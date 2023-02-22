@@ -1,30 +1,16 @@
 {
   "0": {
-    "user_id": 666935196,
-    "username": "79064610288",
-    "password": "<I-0o0-I>",
-    "url_profile": "https://vk.com/id666935196",
-    "access_token": "vk1.a.oRyHcoDE-IQglYm4DZaJJvehPoTFrtK3NE2C2WfT7oDxa92GCI-avPswHRJEwuZ1yqYvCpwxBn89TTAL-ru8dUvweNfS_Li_hQtdfJiOsF2evpgQzF-gXpPXZ4lRtJxLoC_hVzkYZoKfthr-WVbbBrMCtSVFuSOwwq7-ZNSJ2dtYIFO0d9JzAf1k0Oe3is8k"
+    "user_id": 0,
+    "username": "Phone/Email",
+    "password": "Password",
+    "url_profile": "Url profile",
+    "access_token": "Access token"
   },
   "1": {
-    "user_id": 646959519,
-    "username": "380662090714",
-    "password": "ES88pCZilcR2r",
-    "url_profile": "https://vk.com/id646959519",
-    "access_token": "vk1.a.0E5NAjjqvck01ePJiD7463vAIx2Im4BMqCQ1LRcm7SAoXhqe8K1IXqwPMVm7yYdGlZmMlAHYZjeJ00OpUstP1fWYW1kYrHB6PgI02rWcA7X0JC8-BHdv9Yl5HRAsa0H_EHNeTic_tCK8_OfAUAZtiWjFOiwuqN3kvFXobvTR9qtLEm63EN3490vZMEFcOvgC"
-  },
-  "2": {
-    "user_id": 683947275,
-    "username": "380991159629",
-    "password": "HQA6N5tP",
-    "url_profile": "https://vk.com/id683947275",
-    "access_token": "vk1.a.XX8oy-U6wy2uRY5fZAxkvaBKDq9f61CThjSToRo0PhDNx-6yfxoJqiEoD1rhW16jGRvOI5MUjOJojeHDDIu4wh_yxavH2RV4Sgb4MHG1P66_WmWb6HzwEeRbzQSxeeLBZS8nKQnA6X7AIR8MUbrFik6saE36iK7WStMghc9Q7mW1HW4NH7CxoriSaxBBSOZq"
-  },
-  "3": {
-    "user_id": 779488988,
-    "username": "380662676794",
-    "password": "OulegTHtC5ci3",
-    "url_profile": "https://vk.com/id779488988",
-    "access_token": "vk1.a.1dM13tidf8Amjhc5x966gzqXsLFsktuFOzUoKvGFVl_q5negf1fUlT-RiVCnwCxrVlIrDYyaAcBcpavfrmK9hxUbfQiqyFH070hnfnS9n2_LxU17I7gmIvZt7-mZC8wvKlGAt0rZFO4tdSlUuxnQSWHrQ6CoIOlJ7X4lm4I184HRBevDQ2l-8NHzkRYzxdtp"
+    "user_id": 0,
+    "username": "Phone/Email",
+    "password": "Password",
+    "url_profile": "Url profile",
+    "access_token": "Access token"
   }
 }
